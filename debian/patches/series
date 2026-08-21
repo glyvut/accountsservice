@@ -4,4 +4,5 @@ git_default_gdm.patch
 no-check-format.patch
 assume-version-from-d-changelog.patch
 tests-s-assertEquals-assertEqual.patch
+ddm_autologin.patch
 
